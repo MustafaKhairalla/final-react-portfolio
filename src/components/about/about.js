@@ -8,7 +8,7 @@ function About() {
     return (
         <div className="about">
             <div className="image">
-                <img alt="mustafa khairalla" src={require("../../data/img/mustafa.jpg")}></img>
+                <img alt="mustafa khairalla" src={require("../../data/img/Software-Developer.jpg")}></img>
             </div>
 
             <div className="myText">
