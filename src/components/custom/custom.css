@@ -40,6 +40,10 @@ img{
   text-align: left;
 }
 
+.show{
+    display: none;
+}
+
 
 
 .show button{
