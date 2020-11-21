@@ -22,11 +22,11 @@ export default function Contact() {
             <div className="socialArea">
                 <h3>Find out more about me</h3>
                 <div className="socialIcon">
-                    <a href="#"><i class="fab fa-3x fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-3x fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/DevUnrated"><i class="fab fa-3x fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/devunrated"><i class="fab fa-3x fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-3x fa-3x fa-youtube"></i></a>
                     <a href="#"><i class="fab fa-3x fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-3x fa-3x fa-linkedin-in"></i></a>
+                    <a href="https://www.linkedin.com/in/mustafa-khairalla/"><i class="fab fa-3x fa-3x fa-linkedin-in"></i></a>
                 </div>
             </div>
 
