@@ -13,10 +13,10 @@ function About() {
 
             <div className="myText">
                 <div className="title">
-                    <h1>I design awesome websites</h1>
+                    <h1>I design code to solve complex problems</h1>
                 </div>
                 <div className="para">
-                    <p>Full Stack Web Developer with a background in Computer science and Graphic design. With years of IT and development experience I can Effectively combine creativity and problem solving to develop user-friendly applications. Known among staff for high derive to learn and great attention to details.</p>
+                    <p>Sotware Developer with a background in Web Development and Graphic design. With years of IT and development experience I can effectively combine creativity and problem solving to develop user-friendly applications. Known among staff for high derive to learn and great attention to details.</p>
                 </div>
             </div>
         </div>
